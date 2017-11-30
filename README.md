@@ -84,7 +84,7 @@ AppleMapsNavigation.xcworkspace
 
 3. Connect your iPhone, setup your team and run the app.
 
-# To Do/Enhancements:
+# To Do / Enhancements:
 
 1. Show the name of the location on the map instead of its coordinates.
 
@@ -95,3 +95,6 @@ AppleMapsNavigation.xcworkspace
 4. Show current traffic conditions of the route.
 
 5. Improve the User Interface of the App.
+
+
+**NOTE:** This project is still in it's initial phase. For more upcoming features, please see the "To Do / Enhancements" section. To recommend/request any new features, please create a issue as "enhancement". Contributions/Suggestions/Feedbacks are highly appriciated. Thanks :)
