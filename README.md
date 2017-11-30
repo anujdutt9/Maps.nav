@@ -38,7 +38,7 @@ This is a simple iOS app using Core-Location and MapKit provided by Apple to nav
 
 8. Follow the black line and it will lead you to your destination.
 
-Here's a quick working demo of the App:
+***Here's a quick working demo of the App:***
 
 <img src="Images/working.gif" width="300">
 
@@ -91,3 +91,7 @@ AppleMapsNavigation.xcworkspace
 2. Make interface for user to enter the destination location name instead of placing the pin.
 
 3. Integrate alternate routes based on traffic conditions on the current chosen route.
+
+4. Show current traffic conditions of the route.
+
+5. Improve the User Interface of the App.
