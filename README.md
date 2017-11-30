@@ -1,4 +1,4 @@
-# iOS Core-Location Navigation App
+# Maps.nav (iOS Navigation App)
 
 ***This repository contains the code for an iOS navigation app made using Apple's Core-Location and MapKit API.***
 
