@@ -1,0 +1,6 @@
+framework module Pods_AppleMapsNavigation {
+  umbrella header "Pods-AppleMapsNavigation-umbrella.h"
+
+  export *
+  module * { export * }
+}
