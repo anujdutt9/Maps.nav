@@ -12,18 +12,35 @@ This is a simple iOS app using Core-Location and MapKit provided by Apple to nav
 
 <img src="Images/1.PNG" width="300">
 
+2. Allow the App to access your Location.
 
-2. The app will automatically at startup zoom in to your current location. Also, it will show the Longitude and Latitude of user's current location.
+<img src="Images/2.PNG" width="300">
 
-3. On the map, zoom out a bit and select your destination.
+3. The app will automatically at startup zoom in to your current location. Also, it will show the Longitude and Latitude of user's current location.
 
-4. To set a pin for the destination, choose the destination and press there for 1 sec.
+<img src="Images/3.PNG" width="300">
 
-5. Once the pin appears at your destination, click on Navigate.
+4. On the map, zoom out a bit, scroll on the map and select your destination.
 
-6. The app will show the best route depicted by the black line on the map.
+<img src="Images/4.PNG" width="300">
 
-7. Follow the black line and it will lead you to your destination.
+5. To set a pin for the destination, choose the destination and press there for 1 sec.
+
+<img src="Images/5.PNG" width="300">
+
+6. Once the pin appears at your destination, click on Navigate.
+
+<img src="Images/6.PNG" width="300">
+
+7. The app will show the best route depicted by the black line on the map.
+
+<img src="Images/7.PNG" width="300">
+
+8. Follow the black line and it will lead you to your destination.
+
+Here's a quick working demo of the App:
+
+<img src="Images/working.gif" width="300">
 
 # Requirements
 
