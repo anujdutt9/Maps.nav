@@ -10,6 +10,9 @@ This is a simple iOS app using Core-Location and MapKit provided by Apple to nav
 
 1. Run/Open the app
 
+<img src="Images/1.PNG" width="300">
+
+
 2. The app will automatically at startup zoom in to your current location. Also, it will show the Longitude and Latitude of user's current location.
 
 3. On the map, zoom out a bit and select your destination.
